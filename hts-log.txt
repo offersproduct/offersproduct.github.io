@@ -1,0 +1,21 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 18 Oct 2023 22:50:27 at https://hubx.digital/cosmos/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://hubx.digital/cosmos/ -O1 "C:\Users\Usuario\Desktop\Bagulho\cosmo" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:50:42	Error: 	"Not Found" (404) at link https://hubx.digital/cosmos/o,baseURI (from https://hubx.digital/cosmos/)
+22:50:43	Error: 	"Not Found" (404) at link https://hubx.digital/cosmos/GET (from https://hubx.digital/cosmos/)
+22:50:44	Error: 	"Not Found" (404) at link https://hubx.digital/cosmos/Edge/ (from https://hubx.digital/cosmos/)
+22:50:49	Error: 	"Not Found" (404) at link https://hubx.digital/cosmos/POST (from https://hubx.digital/cosmos/)
+22:50:56	Error: 	"Not Found" (404) at link https://hubx.digital/cosmos/schema.org/ (from https://connect.facebook.net/en_US/fbevents.js)
+22:50:56	Error: 	"Not Found" (404) at link https://hubx.digital/cosmos/b.resolvedLink (from https://connect.facebook.net/en_US/fbevents.js)
+22:50:56	Error: 	"Not Found" (404) at link https://hubx.digital/signals/iwl.js (from https://connect.facebook.net/en_US/fbevents.js)
+22:50:56	Error: 	"Not Found" (404) at link https://hubx.digital/cosmos/Trident/ (from https://cdn-ienfc.nitrocdn.com/lnblwrGSgmazhfqNIrzWhndXPUljvtPN/assets/static/optimized/rev-0460670/hubx.digital/wp-content/plugins/elementor/assets/lib/font-awesome/js/nitro-min-afc75d54b931939cbb13a5472ff39002.v4-shims.min.js)
+22:50:56	Error: 	"Not Found" (404) at link https://hubx.digital/cosmos/-negative.svg (from https://cdn-ienfc.nitrocdn.com/lnblwrGSgmazhfqNIrzWhndXPUljvtPN/assets/static/optimized/rev-0460670/hubx.digital/wp-content/plugins/elementor/assets/js/nitro-min-afc75d54b931939cbb13a5472ff39002.frontend.min.js)
+22:50:56	Error: 	"Not Found" (404) at link https://hubx.digital/cosmos/OPR/ (from https://cdn-ienfc.nitrocdn.com/lnblwrGSgmazhfqNIrzWhndXPUljvtPN/assets/static/optimized/rev-0460670/hubx.digital/wp-content/plugins/elementor/assets/js/nitro-min-afc75d54b931939cbb13a5472ff39002.frontend.min.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 29 seconds : 55 links scanned, 44 files written (2638984 bytes overall) [780117 bytes received at 26900 bytes/sec], 3061820 bytes transferred using HTTP compression in 40 files, ratio 20%, 4.3 requests per connection
+(10 errors, 0 warnings, 0 messages)
