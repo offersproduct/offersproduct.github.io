@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+18:38:32	707/707	---M--	301	error ('Moved%20Permanently')	text/html	date:Mon,%2008%20Jan%202024%2021:38:31%20GMT	http://hubx.digital/robots.txt		(from )
+18:38:33	707/707	---M--	301	error ('Moved%20Permanently')	text/html	date:Mon,%2008%20Jan%202024%2021:38:31%20GMT	http://hubx.digital/cosmos/	C:/Users/Usuario/Desktop/Bagulho/cosmos2/hubx.digital/cosmos/index.html	(from )
